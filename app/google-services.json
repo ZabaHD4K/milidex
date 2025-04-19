@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928125112851",
+    "project_id": "milidex",
+    "storage_bucket": "milidex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928125112851:android:11daf819b5b56ca6d565e6",
+        "android_client_info": {
+          "package_name": "com.zabalex.milidex2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-LWbjEXEOTxus-8CB5lrUGnQA1TjCsMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928125112851:android:672ff6532c437ef9d565e6",
+        "android_client_info": {
+          "package_name": "com.zabalex.milidexdef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-LWbjEXEOTxus-8CB5lrUGnQA1TjCsMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
